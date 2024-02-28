@@ -2,6 +2,7 @@
     "userspace_version": "1.0",
     "build_targets": [
         ["keychron/v4/iso", "mischback"],
-        ["kb_elmo/sesame", "mischback"]
+        ["kb_elmo/sesame", "mischback"],
+        ["keychron/q8/iso_encoder", "mischback"]
     ]
 }
