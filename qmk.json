@@ -3,6 +3,7 @@
     "build_targets": [
         ["keychron/v4/iso", "mischback"],
         ["kb_elmo/sesame", "mischback"],
-        ["keychron/q8/iso_encoder", "mischback"]
+        ["keychron/q8/iso_encoder", "mischback"],
+        ["keychron/q7/iso", "mischback"]
     ]
 }
